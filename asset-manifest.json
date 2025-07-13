@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "https://doi-dia-chi.github.io/static/css/main.e629fb63.css",
-    "main.js": "https://doi-dia-chi.github.io/static/js/main.c2c21953.js",
+    "main.js": "https://doi-dia-chi.github.io/static/js/main.561bbccf.js",
     "static/js/206.6a7a8f3d.chunk.js": "https://doi-dia-chi.github.io/static/js/206.6a7a8f3d.chunk.js",
     "index.html": "https://doi-dia-chi.github.io/index.html"
   },
   "entrypoints": [
     "static/css/main.e629fb63.css",
-    "static/js/main.c2c21953.js"
+    "static/js/main.561bbccf.js"
   ]
 }
